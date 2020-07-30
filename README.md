@@ -5,8 +5,9 @@
 ### 🌱 I’m currently learning Artificial Intelligence and Machine learning. Pursuing a Post Graduation Program in the domain of AI and ML.
 ### 👯 I’m looking to collaborate on machine learning topics like predictions, recomendation engines. 
 ### 🤔 I’m looking for help with understanding the complex topics like Deep Learning, Computer Vision, Natural Language Processing, Transfer learning and Many new cutting edge technologies.
-### 📫 How to reach me: Via 📧 vtvishwanathbhat@gmail.com ,via LinkedIn www.linkedin.com/in/vtvishwanath/ ,via Twitter @Techie_VISH
-### ⚡ Fun fact: I am a content creator lanning to having a Tech YouTube channel https://www.youtube.com/techievish also planning to create vlogs on AI and ML.
+### 📫 How to reach me: Via 📧 vtvishwanathbhat@gmail.com ,via [LinkedIn](https://www.linkedin.com/in/vtvishwanath/) ,via [Twitter](https://twitter.com/Techie_VISH)
+### 😄 Pronouns: He/Him/Mr
+### ⚡ Fun fact: I am a content creator lanning to having a Tech [YouTube channel](https://www.youtube.com/techievish) also planning to create vlogs on AI and ML.
 <!--
 **VTVISHWANATH/VTVISHWANATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
