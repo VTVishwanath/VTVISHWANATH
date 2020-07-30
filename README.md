@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+
+### 🚗 I am a Data Engineer at Mercedes-Benz Research and Development India (MBRDI).
+### 🔭 I’m currently working on Backend development of a Reporting platform called DATA BEE 🐝. Mainly building queries using SQL Server, creating data pipeline and ETL (Extract Transform nd Load) using SSIS (SQL Server integration service), mainatining a consistancy in the database, addressing the data load issues and also a little bit of front end development using ReactJs and NodeJs.
+### 🌱 I’m currently learning Artificial Intelligence and Machine learning. Pursuing a Post Graduation Program in the domain of AI and ML.
+### 👯 I’m looking to collaborate on machine learning topics like predictions, recomendation engines. 
 
 <!--
 **VTVISHWANATH/VTVISHWANATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
