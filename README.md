@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![VTVishwanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=VTVishwanath&?count_private=true&theme=gotham&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats) 
+[![VTVishwanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=VTVishwanath&?count_private=true&theme=catppuccin-latte&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VTVishwanath&theme=gotham&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VTVishwanath&theme=catppuccin-latte&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VTVishwanath&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VTVishwanath&theme=catppuccin-latte)](https://git.io/streak-stats)
