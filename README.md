@@ -8,6 +8,8 @@
 - 📫 How to reach me: Via 📧 vtvishwanathbhat@gmail.com ,via [LinkedIn](https://www.linkedin.com/in/vtvishwanath/) ,via [Twitter](https://twitter.com/Techie_VISH)
 - 😄 Pronouns: He/Him/Mr
 - ⚡ Fun fact: I am a content creator lanning to having a Tech [YouTube channel](https://www.youtube.com/techievish) also planning to create vlogs on AI and ML.
+
+
 <!--
 **VTVISHWANATH/VTVISHWANATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 [![VTVishwanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=VTVishwanath&?count_private=true&theme=gotham&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VTVishwanath&theme=gotham)](https://git.io/streak-stats)
